@@ -1,0 +1,5 @@
+dump/
+terraform.tfvars
+.terraform
+terraform.tfstate*
+mongo.cert
